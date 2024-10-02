@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(240, 218, 223); 
+    color: rgb(88, 17, 17);
+    max-width: 875px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    font-family: "Kanit", sans-serif;
+    font-weight: 200;
+    outline: groove;
+    padding: 32px;
+    outline-width: thick;
+    border: 32px;
+    border-style: dashed;
+    border-width: thick;
+}
+  
+h1 {
+    color: rgb(100 6 6); 
+    font-size: 40px;
+    text-align: center;
+    outline: outset;
+    font-kerning: normal;
+    text-decoration: underline;
+    text-decoration-color: indianred;
+    text-decoration-thickness: from-font;
+}
+em { 
+    color: rgb(113, 47, 14);
+}
+
+a {
+    text-decoration: ;
+    color: rgb(88, 17, 17);
+    border: 
+    transition: ;
+
+
+    /* border-width
+
+}
